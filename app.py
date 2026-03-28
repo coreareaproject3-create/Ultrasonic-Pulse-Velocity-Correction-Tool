@@ -1,10 +1,9 @@
 import streamlit as st
 import math
-import streamlit as st
 import math
 import pandas as pd
-from fpdf import FPDF  # Fixes "Import fpdf could not be resolved"
-from datetime import datetime  # Fixes "datetime is not defined"
+from fpdf import FPDF  
+from datetime import datetime  
 import os
 
 # Page configuration
